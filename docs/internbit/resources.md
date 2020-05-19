@@ -23,4 +23,5 @@ The "special sauce" for InternBit is access to the student's RadGrad data, which
 ## Technologies
   * [The best wireframing tools](https://www.integromat.com/en/blog/best-wireframing-tools/)
   * [Figma](https://www.figma.com/)
+  * [Figma Shortcuts](https://www.figmacrush.com/figma-shortcuts-cheatsheet/)
 
